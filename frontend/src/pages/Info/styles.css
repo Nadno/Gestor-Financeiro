@@ -1,0 +1,25 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.info-container #center-container {
+    width: 50%;
+    min-width: 340px;
+    height: 50%;
+    margin: 100px auto;
+    padding: 28px;
+
+    background: white;
+    border-radius: 10px;
+    font-size: 20px;
+}
+
+.info-container #center-container p {
+    margin-top: 8px;
+}
+
+.info-container ul {
+    margin-left: 28px;
+}
